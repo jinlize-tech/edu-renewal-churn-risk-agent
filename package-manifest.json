@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-006",
+  "repository_name": "edu-renewal-churn-risk-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-renewal-churn-risk-agent-v1.0.0.zip",
+  "sha256": "466CE777FD28AE5F266069F3D0D01964B981B74855386433AB7974C76E54C9EE",
+  "bytes": 12053,
+  "entries": [
+    "edu-renewal-churn-risk-agent/.codebuddy-plugin/plugin.json",
+    "edu-renewal-churn-risk-agent/agents/edu-renewal-churn-risk-agent.md",
+    "edu-renewal-churn-risk-agent/avatars/expert.png",
+    "edu-renewal-churn-risk-agent/README.md"
+  ],
+  "built_at": "2026-11-06T21:41:44.3735780+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

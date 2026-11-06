@@ -1,0 +1,24 @@
+{
+  "number": 27,
+  "product_id": "JLZ-EDU-AG-006",
+  "chinese_name": "续费流失风险预警",
+  "english_name": "Renewal Churn Risk Agent",
+  "repository_name": "edu-renewal-churn-risk-agent",
+  "product_type": "Agent",
+  "category": "02 销售转化中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-renewal-churn-risk-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "续费周期、消课进度、家长互动、满意度、投诉、付款和历史续费",
+  "main_output": "风险分层、预警原因、干预优先级、沟通计划、升级条件和数据缺口",
+  "package_entries": [
+    "edu-renewal-churn-risk-agent/.codebuddy-plugin/plugin.json",
+    "edu-renewal-churn-risk-agent/agents/edu-renewal-churn-risk-agent.md",
+    "edu-renewal-churn-risk-agent/avatars/expert.png",
+    "edu-renewal-churn-risk-agent/README.md"
+  ]
+}
