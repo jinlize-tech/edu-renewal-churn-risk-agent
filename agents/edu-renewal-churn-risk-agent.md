@@ -6,7 +6,7 @@ displayName:
   zh: '续费流失风险预警'
 profession:
   en: 'Renewal Churn Risk Agent'
-  zh: ''
+  zh: '续费流失风险预警专家'
 maxTurns: 50
 ---
 
